@@ -1,2 +1,2 @@
 # Si-proj
-This is a Demo for GIt &amp; Github class
+This is a Demo for GIt &amp; Github class.
